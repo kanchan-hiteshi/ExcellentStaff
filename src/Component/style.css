@@ -1,0 +1,22 @@
+.loginFields{
+    margin: 2px;
+}
+
+.deptBtn{
+    margin: 1% !important;
+}
+
+.loginHalfSection1{
+    /* width: 100%;
+    height:20vh;
+    background-color: blueviolet; */
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.loginHalfSection2{
+   margin-top: 20%;
+   width: max-content;
+}

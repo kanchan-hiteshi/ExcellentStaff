@@ -1,0 +1,20 @@
+.background{
+    color: red;
+}
+
+.splitScreen {
+    display: 'flex';
+    flex-direction: 'column';
+}
+
+.topPane {
+    height: '50%',
+}
+
+.bottomPane {
+    height: '50%',
+}
+
+.bgImage{
+   background-color: blueviolet;
+}
